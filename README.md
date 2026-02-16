@@ -18,11 +18,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 [<img align="left" alt="https://linkedin.com/in/oleg-usachev-03789715a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
-[instagram]: https://www.instagram.com/___________
+
 [linkedin]: https://linkedin.com/in/oleg-usachev-03789715a/
 
 <!--
